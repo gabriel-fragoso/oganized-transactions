@@ -56,4 +56,4 @@ Após ter clonado, use no seu terminal:
 - ``Context API``
 - ``Hooks``
 
-Você pode acessar os arquivos do projeto clicando [aqui]().
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gabriel-fragoso/oganized-transactions/tree/main/src).
