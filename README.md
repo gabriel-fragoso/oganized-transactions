@@ -57,3 +57,11 @@ Após ter clonado, use no seu terminal:
 - ``Hooks``
 
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gabriel-fragoso/oganized-transactions/tree/main/src).
+
+## O que pode melhorar? e o que usar para melhorar?
+
+- ``Firebase para cadastramento de usuários, para cada usuário ter seu próprio "caixa".``
+- ``LocalStorage para salvar dados no browser.``
+- ``Light e Dark theme para acessibilidade.``
+- ``Aprimoramento do cadastro de finanças.``
+- ``Criar uma API real com NodeJS.``
