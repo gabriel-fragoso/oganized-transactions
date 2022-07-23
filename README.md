@@ -25,4 +25,35 @@ https://user-images.githubusercontent.com/98067841/180611573-89766e35-2447-4a0e-
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para rodar esse projeto em sua máquina**
+**Para rodar esse projeto em sua máquina, siga o tutorial:**
+
+Vá no botão verde escrito 'Code':
+
+![Captura de Tela (26)](https://user-images.githubusercontent.com/98067841/180612054-54073ce1-f9b3-40db-bb5d-84ad2d30da02.png)
+
+Em seguida escolha sua melhor forma de clonar, eu indico HTTPS:
+
+![Captura de Tela (28)](https://user-images.githubusercontent.com/98067841/180612087-92aa194f-9c52-45a3-a5c8-6b043c035035.png)
+
+Após isso abra o seu editor de código e clique em Clonar repositório:
+
+![Captura de Tela (29)](https://user-images.githubusercontent.com/98067841/180612104-e7ee628c-7a88-46a4-a672-72c3948ae862.png)
+![Captura de Tela (30)](https://user-images.githubusercontent.com/98067841/180612124-0b725c9e-3ff0-46ca-89ff-994e27c24733.png)
+
+Após isso é só colar seu Link.
+
+Após ter clonado, use no seu terminal:
+
+<h1>yarn install</h1>
+<h1>yarn start</h1>
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``ReactJS``
+- ``Typescript``
+- ``Styled Components``
+- ``Context API``
+- ``Hooks``
+
+Você pode acessar os arquivos do projeto clicando [aqui]().
